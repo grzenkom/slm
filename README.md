@@ -8,6 +8,10 @@ with more and more parameters is not the only way.
 During the presentation, I will demonstrate several sample SLMs and then explain how to use them
 to run a private equivalent of ChatGPT on your own computer.
 
+## Slide deck
+
+🚨 See the `slides.pdf` file.
+
 ## Models
 
 ```bash
