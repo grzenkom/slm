@@ -7,3 +7,15 @@ with more and more parameters is not the only way.
 
 During the presentation, I will demonstrate several sample SLMs and then explain how to use them
 to run a private equivalent of ChatGPT on your own computer.
+
+## Models
+
+```bash
+ollama run orca2
+ollama run phi
+ollama run gemma
+ollama run wizard-vicuna-uncensored
+ollama run mistral
+ollama run llava
+ollama run qwen:0.5b
+```
