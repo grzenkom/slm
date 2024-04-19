@@ -11,11 +11,17 @@ to run a private equivalent of ChatGPT on your own computer.
 ## Models
 
 ```bash
+# CLI
 ollama run orca2
 ollama run phi
 ollama run gemma
 ollama run wizard-vicuna-uncensored
+
+# Web UI
 ollama run mistral
+ollama run llama3
 ollama run llava
+
+# curl
 ollama run qwen:0.5b
 ```
